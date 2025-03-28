@@ -1,6 +1,5 @@
 package com.obando.product.service.models.dtos;
 
-import com.fasterxml.jackson.annotation.JsonInclude;
 import org.springframework.http.HttpStatus;
 
 import java.time.LocalDateTime;
